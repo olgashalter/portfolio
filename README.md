@@ -1,2 +1,2 @@
-# portfolio
+# CV
 About me 
