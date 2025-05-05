@@ -29,6 +29,6 @@ Estonia | Russian, English, Estonian
 
 ## 📫 Contact
 - 📧 Email: olga.shalter@gmail.com  
-- 🌍 GitHub: 
+- 🌍 GitHub: https://github.com/olgashalter/portfolio
 
 
