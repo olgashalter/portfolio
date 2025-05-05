@@ -1,7 +1,34 @@
 # CV
-Highly motivated Accounting & Marketing Specialist with extensive experience in freight
-forwarding, logistics, web development, and bookkeeping. Strong analytical skills, expertise in
-financial reporting, e-commerce logistics, and website development. Proven ability to manage
-multiple projects efficiently, ensuring timely and accurate execution of operations. Fluent in
-Russian, Estonian, and English. Seeking a new professional opportunity to contribute skills in a
-dynamic environment.
+# 👩‍💼 Olga Shalter
+**Remote Logistics Specialist | 10+ Years Experience**  
+Estonia | Russian, English, Estonian
+
+---
+
+## 💼 Experience
+
+**International Freight Coordinator**  
+*Freelance | 2013–2023*  
+- Full/partial loads, dangerous goods, oversized cargo  
+- CMR, TIR, airway bill, seaway bill  
+- Customs declarations and invoices  
+- Client support and tracking  
+- WordPress site management
+
+---
+
+## 🛠️ Skills
+- Transport Documentation (CMR, TIR)
+- Customer Communication
+- Logistics Coordination
+- English – Intermediate  
+- Estonian – Intermediate  
+- WordPress
+
+---
+
+## 📫 Contact
+- 📧 Email: olga.shalter@gmail.com  
+- 🌍 GitHub: 
+
+
